@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+-- I couldn't find proper resources so I had to go with what I had. It's not exactly the same but 
+-- As I had time I just did some efforts.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/genabdulrehman/starbuck-app/assets/76816147/6043f218-381b-4af9-af9d-81bdc3d89ded
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
